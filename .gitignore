@@ -1,0 +1,8 @@
+# Don't track content of these folders
+game/cache/
+game/saves/
+
+*.rpyc
+*.txt
+
+game/.DS_Store
